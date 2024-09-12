@@ -1,5 +1,5 @@
 # G24W0202Minimum
 
-# Week 02-2. °¡Àå °£´ÜÇÑ MFC
+# Week 02-2. ê°€ìž¥ ê°„ë‹¨í•œ MFC
 
 https://nano5.notion.site/Week02-2-MFC-b8325504d3d24ad7a8a658784f9cf8ce?pvs=4
